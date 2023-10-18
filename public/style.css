@@ -1,0 +1,26 @@
+nav {
+  background-color: rgb(54, 127, 123);
+  color: #fff;
+  padding: 18px 60px;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+}
+nav li a{
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+padding: 5px 9px;
+}
+
+nav li a:hover{
+  color: #e0a989;
+  text-decoration: none;
+  
+  }
